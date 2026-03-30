@@ -25,6 +25,12 @@
 ### Проект-пример
 11. **[Пример проекта: DarkRP](11-DarkRP-Example/README.md)** — Полный пошаговый проект, похожий на DarkRP
 
+### Продвинутые темы
+12. **[Анимации](12-Animations/README.md)** — AnimGraph, параметры, IK, CitizenAnimationHelper, анимации объектов окружения
+13. **[Оружие: WorldModel, ViewModel и Prediction](13-Weapons-Advanced/README.md)** — Разница моделей, слои рендеринга, клиентское предсказание
+14. **[Морфы и Faceposer](14-Morphs-Faceposer/README.md)** — Система морфов, лицевая анимация, виземы, липсинк
+15. **[Разрушаемые объекты](15-Breakables-Shatter/README.md)** — Prop, gibs, стёкла по кусочкам, зональное разрушение
+
 ---
 
 ## 🎯 Для кого эта документация?
